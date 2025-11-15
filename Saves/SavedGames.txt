@@ -1,0 +1,3 @@
+slot1.txt
+slot3.txt
+slot5.txt

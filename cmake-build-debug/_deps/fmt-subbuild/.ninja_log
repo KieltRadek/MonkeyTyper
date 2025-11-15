@@ -1,0 +1,21 @@
+# ninja log v6
+2	55	7525074591080446	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	56303c7b32ddf15e
+2	55	7525074591080446	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	56303c7b32ddf15e
+55	2992	7525074620451716	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	fae03d2e96964644
+55	2992	7525074620451716	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	fae03d2e96964644
+2992	3121	7525074620491611	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	da887655a6107870
+2992	3121	7525074620491611	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	da887655a6107870
+3121	3173	7525074622256890	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	1a9e718e4b761752
+3121	3173	7525074622256890	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	1a9e718e4b761752
+3173	3227	7525074622795445	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	c5d6e8ce52ebc53
+3173	3227	7525074622795445	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	c5d6e8ce52ebc53
+3227	3279	7525074623314060	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	51996a89a46f025b
+3227	3279	7525074623314060	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	51996a89a46f025b
+3279	3331	7525074623832673	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	2a89ee37a4a3c175
+3279	3331	7525074623832673	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	2a89ee37a4a3c175
+3331	3383	7525074624351284	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	a0b70e0023c03558
+3331	3383	7525074624351284	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	a0b70e0023c03558
+3383	3451	7525074625039437	CMakeFiles/fmt-populate-complete	4dfda5e9abe67a34
+3383	3451	7525074625039437	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	4dfda5e9abe67a34
+3383	3451	7525074625039437	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	4dfda5e9abe67a34
+3383	3451	7525074625039437	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	4dfda5e9abe67a34

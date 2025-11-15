@@ -1,0 +1,21 @@
+# ninja log v6
+2	56	7525074482716954	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	bb82e809acb179af
+2	56	7525074482716954	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	bb82e809acb179af
+57	8133	7525074563484781	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	36409e221328ed5b
+57	8133	7525074563484781	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	36409e221328ed5b
+8133	8263	7525074563524676	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	af73069bf55416a7
+8133	8263	7525074563524676	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	af73069bf55416a7
+8263	8314	7525074565296301	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	dcc7372167da8a6d
+8263	8314	7525074565296301	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	dcc7372167da8a6d
+8314	8366	7525074565814917	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3b5451546dfa8524
+8314	8366	7525074565814917	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3b5451546dfa8524
+8366	8418	7525074566333530	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a94985b34683d0ff
+8366	8418	7525074566333530	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	a94985b34683d0ff
+8418	8469	7525074566847294	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	23afd98da341afe6
+8418	8469	7525074566847294	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	23afd98da341afe6
+8469	8521	7525074567365906	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	70f186f87f6a2cad
+8469	8521	7525074567365906	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	70f186f87f6a2cad
+8521	8590	7525074568059299	CMakeFiles/sfml-populate-complete	bfca891be2e8d361
+8521	8590	7525074568059299	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	bfca891be2e8d361
+8521	8590	7525074568059299	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	bfca891be2e8d361
+8521	8590	7525074568059299	D:/Studia/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	bfca891be2e8d361
